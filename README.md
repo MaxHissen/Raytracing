@@ -1,3 +1,3 @@
 # Raytracing
 
-![alt text](https://github.com/MaxHissen/Raytracing/blob/simple.jpg?raw=true)
+![alt text](https://github.com/MaxHissen/Raytracing/blob/main/simple.png?raw=true)

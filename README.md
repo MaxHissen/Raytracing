@@ -24,8 +24,12 @@ This animation was mostly pre-programmed for us as part of the project.
 
 ![alt text](https://github.com/MaxHissen/Raytracing/blob/main/flat_shading.gif?raw=true)
 
+This takes the surrounding triangles and averages the shades to get a smooth image
+
 ![alt text](https://github.com/MaxHissen/Raytracing/blob/main/pv_shading.png?raw=true)
 ![alt text](https://github.com/MaxHissen/Raytracing/blob/main/pv_shading.gif?raw=true)
+
+Only returning a value if it's between 2 adjacent points returns a wireframe representation of the object
 
 ![alt text](https://github.com/MaxHissen/Raytracing/blob/main/wireframe.png?raw=true)
 ![alt text](https://github.com/MaxHissen/Raytracing/blob/main/wireframe.gif?raw=true)
